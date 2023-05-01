@@ -23,12 +23,12 @@ export AVECPROF_BIN_SAMPLECORTEX="${AVECPROF}/C++/profilesampling/samplecortex"
 
 export AVECPROF_R_COMPUTEHISTBOUNDARIES="${AVECPROF}/R/computeHistBoundaries.R"
 # bash scripts
-export AVECPROF_SH_PERFORMSURFACESAMPLING="${AVECPROF}/scripts/perform_surface_sampling_in_patches.sh"
+export AVECPROF_SH_PERFORMSURFACESAMPLING="${AVECPROF}/scripts/perform_surface_sampling_in_parts.sh"
 export AVECPROF_SH_CREATESURFACEMEASUREMENTS="${AVECPROF}/scripts/create_subject_surface_measurements.sh"
 
 # R scripts
 export AVECPROF_R_OPTIMIZEPROFILES="${AVECPROF}/R/optimizeProfiles.R"
-export AVECPROF_R_PREPRAWCORTEXFILES="${AVECPROF}/R/prepRawCortexFles.R"
+export AVECPROF_R_PREPRAWCORTEXFILES="${AVECPROF}/R/prepRawCortexFiles.R"
 export AVECPROF_R_COMPUTEHISTBOUNDARIES="${AVECPROF}/R/computeHistBoundaries.R"
 
 #
