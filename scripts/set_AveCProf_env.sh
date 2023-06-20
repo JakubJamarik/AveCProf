@@ -21,7 +21,6 @@ export AVECPROF_OS
 export AVECPROF_BIN_DECONVOLUTION="${AVECPROF}/C++/deconvolution/itkDeconvolution"
 export AVECPROF_BIN_SAMPLECORTEX="${AVECPROF}/C++/profilesampling/samplecortex"
 
-export AVECPROF_R_COMPUTEHISTBOUNDARIES="${AVECPROF}/R/computeHistBoundaries.R"
 # bash scripts
 export AVECPROF_SH_PERFORMSURFACESAMPLING="${AVECPROF}/scripts/perform_surface_sampling_in_parts.sh"
 export AVECPROF_SH_CREATESURFACEMEASUREMENTS="${AVECPROF}/scripts/create_subject_surface_measurements.sh"
